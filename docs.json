@@ -11,6 +11,12 @@
 "navigation": {
 "groups": [
 {
+"group": "Portfolio",
+"pages": [
+"index"
+]
+},
+{
 "group": "Webrevix Business API",
 "pages": [
 "01-webrevix-business-api/index",
