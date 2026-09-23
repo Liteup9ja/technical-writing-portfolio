@@ -1,7 +1,7 @@
 {
 "$schema": "https://mintlify.com/docs.json",
 "theme": "mint",
-"name": "Isekhua Stephen — Technical Writing Portfolio",
+"name": "Isekhua Stephen",
 "description": "Technical writing portfolio featuring developer documentation, API documentation, SaaS documentation, technical guides, and AI-assisted documentation.",
 "colors": {
 "primary": "#2563EB",
