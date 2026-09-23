@@ -2,177 +2,275 @@
 
 > **Technical Writer | Developer Documentation | API Documentation | AI-Assisted Documentation**
 
-I create clear, structured, and practical technical documentation that helps developers and users understand software, APIs, integrations, and technical products.
+Welcome to my technical writing portfolio.
 
-My background in Computer Science, web development, automation, and AI tools allows me to understand technical systems and translate them into documentation that is easier to follow.
+I am a Computer Science graduate and technical professional transitioning into technical writing, developer documentation, API documentation, and AI-assisted documentation.
+
+This portfolio demonstrates my ability to turn technical concepts, software products, APIs, and workflows into clear, structured, user-friendly documentation.
 
 ---
 
 ## What I Do
 
-* Developer documentation
+I create documentation that helps developers, users, and technical teams understand and use software products effectively.
+
+My documentation focus includes:
+
 * API documentation
-* API references
-* Getting-started guides
-* Integration guides
-* Technical tutorials
-* Product documentation
-* Workflow documentation
-* Authentication documentation
-* Webhook documentation
+* Developer documentation
+* SaaS product documentation
+* User guides
+* Getting started guides
+* Integration documentation
 * Troubleshooting guides
-* AI-assisted technical writing
-* Documentation structure and information architecture
+* FAQ documentation
+* Command references
+* Technical onboarding
+* Workflow documentation
+* AI-assisted technical documentation
 
 ---
 
-## Portfolio Projects
+# Portfolio Projects
 
-### 01 — Webrevix Business API Documentation
+## 1. Webrevix Business API Documentation
 
-A fictional REST API documentation project demonstrating how to document a business management API for developers.
+A complete developer documentation project for a fictional business management API.
 
-**Covers:**
+The project demonstrates how API documentation can guide developers through authentication, resources, endpoints, webhooks, errors, and common integration workflows.
+
+### Documentation Includes
 
 * API overview
+* Getting started
 * Authentication
-* Businesses
-* Leads
+* Business endpoints
+* Lead management
 * Webhooks
 * Error handling
-* CRUD operations
-* Request and response examples
-* Developer getting-started guides
 
-**Documentation:**
-[View Webrevix Business API Documentation](01-webrevix-business-api/)
+### Skills Demonstrated
+
+* API documentation
+* Endpoint documentation
+* Authentication documentation
+* Request and response examples
+* Developer onboarding
+* Technical information architecture
+* Structured reference documentation
+
+**[View Webrevix Business API Documentation](01-webrevix-business-api/)**
 
 ---
 
-### 02 — Flowdesk SaaS Documentation
+## 2. Flowdesk SaaS Documentation
 
-A fictional SaaS documentation project demonstrating how to create clear product documentation for a business automation platform.
+A complete SaaS product documentation project for a fictional business automation platform.
 
-**Covers:**
+Flowdesk is designed as a business automation platform where teams can connect tools and create workflows that automate repetitive tasks.
 
+### Documentation Includes
+
+* Product overview
 * Getting started
 * Account setup
-* Workspace configuration
 * Integrations
 * Workflows
 * Workflow runs
 * Troubleshooting
-* Best practices
-* Step-by-step user guides
 
-**Documentation:**
-[View Flowdesk SaaS Documentation](02-flowdesk-saas-documentation/)
+### Skills Demonstrated
+
+* SaaS documentation
+* User onboarding
+* Task-based documentation
+* Integration documentation
+* Workflow documentation
+* Troubleshooting
+* Information architecture
+* User-focused technical writing
+
+**[View Flowdesk SaaS Documentation](02-flowdesk-saas-documentation/)**
 
 ---
 
-## Documentation Skills
+## 3. DGAV — Dangeaky Alert Vitals
+
+Real-world product documentation for **Dangeaky Alert Vitals (DGAV)**, a Telegram-based trading alert bot that delivers triggered alerts directly to users through Telegram direct messages.
+
+The documentation explains how users interact with the bot, access its commands, understand alerts, and troubleshoot common issues.
+
+### Documentation Includes
+
+* Product overview
+* Getting started
+* Bot setup
+* Trading alerts
+* Telegram commands
+* Alert format
+* Troubleshooting
+* Frequently asked questions
+
+### Skills Demonstrated
+
+* Real-world product documentation
+* Telegram bot documentation
+* User onboarding
+* Command reference documentation
+* Alert documentation
+* Troubleshooting
+* FAQ development
+* Technical product communication
+
+**[View DGAV Documentation](03-dgav-trading-alert-bot/)**
+
+---
+
+# Documentation Skills
 
 ### Developer Documentation
 
-* API documentation
-* REST APIs
-* HTTP methods
-* JSON
-* Authentication
-* Webhooks
-* CRUD operations
-* Error handling
-* Request and response examples
+* API references
+* Endpoint documentation
+* Authentication guides
+* Integration guides
+* Developer onboarding
+* Technical references
 
 ### Product Documentation
 
-* Getting-started guides
+* SaaS documentation
 * User guides
 * Feature documentation
-* Integration guides
 * Workflow documentation
+* Product onboarding
 * Troubleshooting
-* Best practices
-* Technical tutorials
 
-### Technical Writing
+### Technical Communication
 
-* Information architecture
-* Clear and concise technical language
-* Step-by-step instructions
-* Documentation structure
-* Examples and use cases
-* Technical research
-* AI-assisted drafting and editing
+* Clear technical explanations
+* Structured information architecture
+* Task-based documentation
+* Step-by-step guides
+* Examples and code snippets
+* Error and troubleshooting documentation
+
+### AI-Assisted Documentation
+
+I use AI tools to support documentation workflows such as:
+
+* Research organization
+* First-draft generation
+* Content restructuring
+* Technical explanations
+* Documentation consistency
+* Editing and refinement
+
+AI is used as an assistance layer, while the final documentation is reviewed and structured for clarity, accuracy, and usability.
 
 ---
 
-## Tools & Technologies
+# Tools & Technologies
+
+### Documentation
 
 * Markdown
+* Mintlify
 * GitHub
 * Git
-* GitBook
-* Mintlify
+* Technical documentation workflows
+
+### Technical
+
 * REST APIs
-* HTTP
 * JSON
-* JavaScript
-* Python
+* HTTP
+* Webhooks
+* Telegram Bots
 * Supabase
 * WordPress
 * Cloudflare Workers
-* Automation platforms
-* AI tools
+
+### AI & Productivity
+
+* AI-assisted writing
+* Prompt engineering
+* AI research workflows
+* Content structuring
 
 ---
 
-## Documentation Principles
+# Documentation Principles
 
-My documentation approach focuses on:
+My documentation approach focuses on making technical information:
 
-**Clarity**
-Technical information should be understandable without unnecessary complexity.
+**Clear**
+Use simple language and explain technical concepts without unnecessary complexity.
 
-**Structure**
-Related information should be organized logically so users can find what they need quickly.
+**Structured**
+Organize information so readers can quickly find what they need.
 
-**Practical Examples**
-Examples should show how a feature or API works in a realistic situation.
+**Actionable**
+Give users practical steps they can follow.
 
-**Task-Oriented Guidance**
-Documentation should help users accomplish specific goals rather than simply describe features.
+**Accurate**
+Document actual product behavior and avoid unsupported assumptions.
 
-**Consistency**
-Terminology, formatting, examples, and navigation should remain consistent throughout a documentation set.
+**User-focused**
+Write for the person trying to accomplish a task, not just for the technology itself.
 
----
-
-## About Me
-
-I'm a Computer Science graduate and technical professional with experience working with websites, APIs, automation systems, databases, WordPress, cloud tools, and AI technologies.
-
-I'm transitioning this technical background into a focused career in **technical writing and developer documentation**, with an emphasis on API documentation, SaaS documentation, integration guides, and AI-assisted documentation.
+**Maintainable**
+Structure documentation so it can be updated as a product evolves.
 
 ---
 
-## Contact
+# About Me
+
+Isekhua Stephen is a Computer Science graduate and technical professional with hands-on experience working with websites, APIs, automation systems, databases, Telegram bots, cloud tools, and AI-assisted development workflows.
+
+My technical background gives me a practical understanding of the systems I document.
+
+I am currently building my career around:
+
+* Technical writing
+* Developer documentation
+* API documentation
+* SaaS documentation
+* AI-assisted documentation
+
+---
+
+# Portfolio Status
+
+This portfolio is actively being expanded with new documentation projects and technical writing samples.
+
+Future projects will include additional examples of:
+
+* API documentation
+* SDK documentation
+* Developer guides
+* Software tutorials
+* Technical reference material
+* AI-assisted documentation workflows
+
+---
+
+# Contact
 
 **Isekhua Stephen**
 
 Technical Writer | Developer Documentation | API Documentation | AI-Assisted Documentation
 
-GitHub:
+**GitHub:**
 https://github.com/isekhuastephen
 
----
-
-## Portfolio Status
-
-This portfolio is actively being developed with new documentation projects, technical guides, and developer-focused examples.
-
-More projects will be added as the portfolio grows.
+**LinkedIn:**
+https://linkedin.com/in/stephenisekhua01
 
 ---
 
-*Some projects in this portfolio are fictional products created specifically to demonstrate technical writing and documentation skills.*
+## Note About Portfolio Projects
+
+Some projects in this portfolio are fictional products created specifically to demonstrate technical writing and documentation skills.
+
+Projects identified as real-world projects are documented based on the product information available to me and are intended to demonstrate practical documentation experience.
