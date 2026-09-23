@@ -1,0 +1,32 @@
+{
+"$schema": "https://mintlify.com/docs.json",
+"theme": "mint",
+"name": "Isekhua Stephen — Technical Writing Portfolio",
+"description": "Technical writing portfolio featuring developer documentation, API documentation, SaaS documentation, technical guides, and AI-assisted documentation.",
+"navigation": [
+{
+"group": "Webrevix Business API",
+"pages": [
+"01-webrevix-business-api/README",
+"01-webrevix-business-api/getting-started",
+"01-webrevix-business-api/authentication",
+"01-webrevix-business-api/businesses",
+"01-webrevix-business-api/leads",
+"01-webrevix-business-api/webhooks",
+"01-webrevix-business-api/errors"
+]
+},
+{
+"group": "Flowdesk SaaS Documentation",
+"pages": [
+"02-flowdesk-saas-documentation/README",
+"02-flowdesk-saas-documentation/getting-started",
+"02-flowdesk-saas-documentation/account-setup",
+"02-flowdesk-saas-documentation/integrations",
+"02-flowdesk-saas-documentation/workflows",
+"02-flowdesk-saas-documentation/workflow-runs",
+"02-flowdesk-saas-documentation/troubleshooting"
+]
+}
+]
+}
