@@ -3,7 +3,13 @@
 "theme": "mint",
 "name": "Isekhua Stephen — Technical Writing Portfolio",
 "description": "Technical writing portfolio featuring developer documentation, API documentation, SaaS documentation, technical guides, and AI-assisted documentation.",
-"navigation": [
+"colors": {
+"primary": "#2563EB",
+"light": "#3B82F6",
+"dark": "#1D4ED8"
+},
+"navigation": {
+"groups": [
 {
 "group": "Webrevix Business API",
 "pages": [
@@ -29,4 +35,5 @@
 ]
 }
 ]
+}
 }
