@@ -33,6 +33,19 @@
 "02-flowdesk-saas-documentation/workflow-runs",
 "02-flowdesk-saas-documentation/troubleshooting"
 ]
+},
+{
+"group": "DGAV — Dangeaky Alert Vitals",
+"pages": [
+"03-dgav-trading-alert-bot/index",
+"03-dgav-trading-alert-bot/getting-started",
+"03-dgav-trading-alert-bot/bot-setup",
+"03-dgav-trading-alert-bot/alerts",
+"03-dgav-trading-alert-bot/commands",
+"03-dgav-trading-alert-bot/alert-format",
+"03-dgav-trading-alert-bot/troubleshooting",
+"03-dgav-trading-alert-bot/faq"
+]
 }
 ]
 }
