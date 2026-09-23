@@ -1,163 +1,178 @@
 # Isekhua Stephen — Technical Writing Portfolio
 
-> Technical Writer focused on developer documentation, API documentation, technical guides, and AI-assisted documentation.
+> **Technical Writer | Developer Documentation | API Documentation | AI-Assisted Documentation**
 
-Welcome to my technical writing portfolio.
+I create clear, structured, and practical technical documentation that helps developers and users understand software, APIs, integrations, and technical products.
 
-This repository contains practical documentation projects created to demonstrate my ability to research technical concepts, structure information clearly, explain developer workflows, and turn complex technical ideas into useful documentation.
+My background in Computer Science, web development, automation, and AI tools allows me to understand technical systems and translate them into documentation that is easier to follow.
 
 ---
 
 ## What I Do
 
-I create documentation that helps developers and technical users understand and successfully use products, APIs, tools, and technical systems.
-
-My areas of focus include:
-
-* API documentation
 * Developer documentation
-* Getting started guides
-* Integration guides
+* API documentation
 * API references
+* Getting-started guides
+* Integration guides
+* Technical tutorials
+* Product documentation
+* Workflow documentation
 * Authentication documentation
 * Webhook documentation
-* Error handling documentation
-* Technical tutorials
+* Troubleshooting guides
 * AI-assisted technical writing
-* Product and feature documentation
+* Documentation structure and information architecture
 
 ---
 
 ## Portfolio Projects
 
-### 01 — Webrevix Business API
+### 01 — Webrevix Business API Documentation
 
-**Type:** API Documentation
+A fictional REST API documentation project demonstrating how to document a business management API for developers.
 
-A complete conceptual REST API documentation project covering authentication, business management, lead management, webhooks, and API error handling.
+**Covers:**
 
-**Documentation includes:**
-
-* Getting Started
+* API overview
 * Authentication
-* Businesses API
-* Leads API
+* Businesses
+* Leads
 * Webhooks
-* Errors and troubleshooting
+* Error handling
+* CRUD operations
 * Request and response examples
+* Developer getting-started guides
 
-→ [View Project](01-webrevix-business-api/)
+**Documentation:**
+[View Webrevix Business API Documentation](01-webrevix-business-api/)
+
+---
+
+### 02 — Flowdesk SaaS Documentation
+
+A fictional SaaS documentation project demonstrating how to create clear product documentation for a business automation platform.
+
+**Covers:**
+
+* Getting started
+* Account setup
+* Workspace configuration
+* Integrations
+* Workflows
+* Workflow runs
+* Troubleshooting
+* Best practices
+* Step-by-step user guides
+
+**Documentation:**
+[View Flowdesk SaaS Documentation](02-flowdesk-saas-documentation/)
 
 ---
 
 ## Documentation Skills
 
-### API Documentation
+### Developer Documentation
 
-I document API resources and endpoints using clear explanations, HTTP methods, parameters, request examples, response examples, and error scenarios.
+* API documentation
+* REST APIs
+* HTTP methods
+* JSON
+* Authentication
+* Webhooks
+* CRUD operations
+* Error handling
+* Request and response examples
 
-### Developer Guides
+### Product Documentation
 
-I structure technical guides around the tasks developers need to complete, from initial setup through integration and troubleshooting.
+* Getting-started guides
+* User guides
+* Feature documentation
+* Integration guides
+* Workflow documentation
+* Troubleshooting
+* Best practices
+* Technical tutorials
 
 ### Technical Writing
 
-I focus on:
-
-* Clarity
-* Accuracy
-* Consistency
-* Scannability
-* Useful examples
-* Logical information structure
-
-### AI-Assisted Documentation
-
-I use AI tools to accelerate research, drafting, restructuring, and review while maintaining human oversight of technical accuracy and documentation quality.
+* Information architecture
+* Clear and concise technical language
+* Step-by-step instructions
+* Documentation structure
+* Examples and use cases
+* Technical research
+* AI-assisted drafting and editing
 
 ---
 
 ## Tools & Technologies
-
-**Documentation**
 
 * Markdown
 * GitHub
 * Git
 * GitBook
 * Mintlify
-
-**Technical Concepts**
-
 * REST APIs
 * HTTP
 * JSON
-* Authentication
-* Webhooks
-* CRUD
-* API errors
-* Integrations
-
-**Development & Technical Tools**
-
 * JavaScript
 * Python
-* WordPress
 * Supabase
+* WordPress
 * Cloudflare Workers
 * Automation platforms
+* AI tools
 
 ---
 
 ## Documentation Principles
 
-My documentation approach is built around four principles:
+My documentation approach focuses on:
 
-**Clear**
+**Clarity**
+Technical information should be understandable without unnecessary complexity.
 
-Explain technical concepts in straightforward language.
+**Structure**
+Related information should be organized logically so users can find what they need quickly.
 
-**Structured**
+**Practical Examples**
+Examples should show how a feature or API works in a realistic situation.
 
-Organize information so readers can quickly find what they need.
+**Task-Oriented Guidance**
+Documentation should help users accomplish specific goals rather than simply describe features.
 
-**Actionable**
-
-Give readers practical steps and working examples.
-
-**Developer-focused**
-
-Write documentation around the tasks developers actually need to accomplish.
+**Consistency**
+Terminology, formatting, examples, and navigation should remain consistent throughout a documentation set.
 
 ---
 
 ## About Me
 
-I'm **Isekhua Stephen**, a Computer Science graduate and technical professional transitioning my development and automation experience into technical writing and developer documentation.
+I'm a Computer Science graduate and technical professional with experience working with websites, APIs, automation systems, databases, WordPress, cloud tools, and AI technologies.
 
-My background working with websites, APIs, automation systems, databases, and software tools helps me understand technical concepts from a practical perspective.
-
-I'm particularly interested in documentation for:
-
-* SaaS products
-* APIs
-* Developer tools
-* Automation platforms
-* AI products
-* Business software
+I'm transitioning this technical background into a focused career in **technical writing and developer documentation**, with an emphasis on API documentation, SaaS documentation, integration guides, and AI-assisted documentation.
 
 ---
 
 ## Contact
 
-**GitHub:** [@isekhuastephen](https://github.com/isekhuastephen)
+**Isekhua Stephen**
 
-**LinkedIn:** [linkedin.com/in/stephenisekhua01](https://linkedin.com/in/stephenisekhua01)
+Technical Writer | Developer Documentation | API Documentation | AI-Assisted Documentation
+
+GitHub:
+https://github.com/isekhuastephen
 
 ---
 
 ## Portfolio Status
 
-This portfolio is actively being developed.
+This portfolio is actively being developed with new documentation projects, technical guides, and developer-focused examples.
 
-New documentation projects, technical guides, API references, and published documentation will be added as the portfolio grows.
+More projects will be added as the portfolio grows.
+
+---
+
+*Some projects in this portfolio are fictional products created specifically to demonstrate technical writing and documentation skills.*
