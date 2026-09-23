@@ -120,8 +120,9 @@ Receiving an alert does not guarantee a particular trading outcome. Users should
 
 ## Related Documentation
 
-* [Getting Started](getting-started.md)
-* [Bot Setup](bot-setup.md)
-* [Commands](commands.md)
-* [Alert Format](alert-format.md)
-* [Troubleshooting](troubleshooting.md)
+* [Getting Started](/03-dgav-trading-alert-bot/getting-started)
+* [Bot Setup](/03-dgav-trading-alert-bot/bot-setup)
+* [Commands](/03-dgav-trading-alert-bot/commands)
+* [Alert Format](/03-dgav-trading-alert-bot/alert-format)
+* [Troubleshooting](/03-dgav-trading-alert-bot/troubleshooting)
+
