@@ -13,7 +13,7 @@
 {
 "group": "Webrevix Business API",
 "pages": [
-"01-webrevix-business-api/README",
+"01-webrevix-business-api/index",
 "01-webrevix-business-api/getting-started",
 "01-webrevix-business-api/authentication",
 "01-webrevix-business-api/businesses",
@@ -25,7 +25,7 @@
 {
 "group": "Flowdesk SaaS Documentation",
 "pages": [
-"02-flowdesk-saas-documentation/README",
+"02-flowdesk-saas-documentation/index",
 "02-flowdesk-saas-documentation/getting-started",
 "02-flowdesk-saas-documentation/account-setup",
 "02-flowdesk-saas-documentation/integrations",
