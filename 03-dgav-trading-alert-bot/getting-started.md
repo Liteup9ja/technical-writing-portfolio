@@ -151,9 +151,10 @@ See [Troubleshooting](troubleshooting.md) for more help.
 
 After starting DGAV, continue with:
 
-* [Bot Setup](bot-setup.md)
-* [Alerts](alerts.md)
-* [Commands](commands.md)
-* [Alert Format](alert-format.md)
+* [Bot Setup](/03-dgav-trading-alert-bot/bot-setup)
+* [Alerts](/03-dgav-trading-alert-bot/alerts)
+* [Commands](/03-dgav-trading-alert-bot/commands)
+* [Alert Format](/03-dgav-trading-alert-bot/alert-format)
+
 
 These guides explain how to interact with DGAV and understand the information provided by the bot.
