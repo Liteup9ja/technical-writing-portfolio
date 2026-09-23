@@ -105,11 +105,11 @@ For quick reference:
 These commands provide the main entry points for interacting with DGAV through Telegram.
 
 ---
-
 ## Related Documentation
 
-* [Getting Started](getting-started.md)
-* [Bot Setup](bot-setup.md)
-* [Alerts](alerts.md)
-* [Alert Format](alert-format.md)
-* [Troubleshooting](troubleshooting.md)
+* [Getting Started](/03-dgav-trading-alert-bot/getting-started)
+* [Bot Setup](/03-dgav-trading-alert-bot/bot-setup)
+* [Alerts](/03-dgav-trading-alert-bot/alerts)
+* [Alert Format](/03-dgav-trading-alert-bot/alert-format)
+* [Troubleshooting](/03-dgav-trading-alert-bot/troubleshooting)
+
