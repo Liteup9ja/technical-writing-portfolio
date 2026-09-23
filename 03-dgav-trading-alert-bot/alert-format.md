@@ -152,8 +152,9 @@ An alert is not a guarantee of a particular trading result. Users should indepen
 
 ## Related Documentation
 
-* [Alerts](alerts.md)
-* [Commands](commands.md)
-* [Getting Started](getting-started.md)
-* [Bot Setup](bot-setup.md)
-* [Troubleshooting](troubleshooting.md)
+* [Alerts](/03-dgav-trading-alert-bot/alerts)
+* [Commands](/03-dgav-trading-alert-bot/commands)
+* [Getting Started](/03-dgav-trading-alert-bot/getting-started)
+* [Bot Setup](/03-dgav-trading-alert-bot/bot-setup)
+* [Troubleshooting](/03-dgav-trading-alert-bot/troubleshooting)
+
