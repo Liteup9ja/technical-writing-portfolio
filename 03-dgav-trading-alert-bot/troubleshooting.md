@@ -136,9 +136,9 @@ Avoid sharing sensitive account information in public messages.
 
 ## Related Documentation
 
-* [Getting Started](getting-started.md)
-* [Bot Setup](bot-setup.md)
-* [Alerts](alerts.md)
-* [Commands](commands.md)
-* [Alert Format](alert-format.md)
-* [FAQ](faq.md)
+* [Getting Started](/03-dgav-trading-alert-bot/getting-started)
+* [Bot Setup](/03-dgav-trading-alert-bot/bot-setup)
+* [Alerts](/03-dgav-trading-alert-bot/alerts)
+* [Commands](/03-dgav-trading-alert-bot/commands)
+* [Alert Format](/03-dgav-trading-alert-bot/alert-format)
+* [FAQ](/03-dgav-trading-alert-bot/faq)
