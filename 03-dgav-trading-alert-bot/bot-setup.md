@@ -115,11 +115,10 @@ Use this checklist to confirm that your DGAV setup is ready:
 
 ---
 
-## Next Steps
+## Related Documentation
 
-After completing the setup, continue with:
-
-* [Alerts](alerts.md)
-* [Commands](commands.md)
-* [Alert Format](alert-format.md)
-* [Troubleshooting](troubleshooting.md)
+* [Getting Started](/03-dgav-trading-alert-bot/getting-started)
+* [Alerts](/03-dgav-trading-alert-bot/alerts)
+* [Commands](/03-dgav-trading-alert-bot/commands)
+* [Alert Format](/03-dgav-trading-alert-bot/alert-format)
+* [Troubleshooting](/03-dgav-trading-alert-bot/troubleshooting)
