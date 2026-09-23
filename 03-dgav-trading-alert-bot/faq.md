@@ -22,7 +22,7 @@ Open the DGAV bot in Telegram and send:
 
 Follow the instructions provided by the bot.
 
-See [Getting Started](getting-started.md) for the complete setup guide.
+See [Getting Started](/03-dgav-trading-alert-bot/getting-started) for the complete setup guide.
 
 ---
 
@@ -46,7 +46,7 @@ A DGAV alert may contain:
 
 The information included may vary depending on the alert.
 
-See [Alert Format](alert-format.md) for more information.
+See [Alert Format](/03-dgav-trading-alert-bot/alert-format) for more information.
 
 ---
 
@@ -62,7 +62,7 @@ DGAV currently provides the following commands:
 /plans
 ```
 
-See [Commands](commands.md) for details about each command.
+See [Commands](/03-dgav-trading-alert-bot/commands) for details about each command.
 
 ---
 
@@ -100,7 +100,7 @@ First, check that:
 4. The relevant alert conditions have been triggered.
 5. Telegram notifications are enabled.
 
-See [Troubleshooting](troubleshooting.md) for additional steps.
+See [Troubleshooting](/03-dgav-trading-alert-bot/troubleshooting) for additional steps.
 
 ---
 
@@ -136,7 +136,7 @@ First:
 2. Make sure it begins with `/`.
 3. Send `/start`.
 4. Try the command again.
-5. Review [Troubleshooting](troubleshooting.md).
+5. Review [Troubleshooting](/03-dgav-trading-alert-bot/troubleshooting).
 
 If the issue continues, provide the DGAV administrator with details about the command and the behavior you experienced.
 
@@ -146,9 +146,9 @@ If the issue continues, provide the DGAV administrator with details about the co
 
 Start with:
 
-* [Getting Started](getting-started.md)
-* [Bot Setup](bot-setup.md)
-* [Alerts](alerts.md)
-* [Commands](commands.md)
-* [Alert Format](alert-format.md)
-* [Troubleshooting](troubleshooting.md)
+* [Getting Started](/03-dgav-trading-alert-bot/getting-started)
+* [Bot Setup](/03-dgav-trading-alert-bot/bot-setup)
+* [Alerts](/03-dgav-trading-alert-bot/alerts)
+* [Commands](/03-dgav-trading-alert-bot/commands)
+* [Alert Format](/03-dgav-trading-alert-bot/alert-format)
+* [Troubleshooting](/03-dgav-trading-alert-bot/troubleshooting)
